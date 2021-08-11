@@ -1,0 +1,69 @@
+10 Dec 2018 4:11:12 GMT: Log 'EclipseCompiler.txt' opened: 10 Dec 2018 4:11:12 GMT with name H:\STUDY\CSE111\lab\LAB10\Employee\EclipseCompiler.txt
+10 Dec 2018 4:13:40 GMT: diagnostics = javax.tools.DiagnosticCollector@604d86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dbae09
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:13:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@512759' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:13:41 GMT: Compiler call returned
+10 Dec 2018 4:13:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3a334
+10 Dec 2018 4:13:41 GMT:  Kind = ERROR
+10 Dec 2018 4:13:41 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 17 ColNo = 25 Msg = 'object cannot be resolved to a type'
+10 Dec 2018 4:13:45 GMT: diagnostics = javax.tools.DiagnosticCollector@ac16f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9ffcdb
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:13:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e08a00' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:13:45 GMT: Compiler call returned
+10 Dec 2018 4:13:49 GMT: diagnostics = javax.tools.DiagnosticCollector@1633646
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2fdf5d
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:13:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1aca868' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:13:49 GMT: Compiler call returned
+10 Dec 2018 4:15:01 GMT: diagnostics = javax.tools.DiagnosticCollector@d13753
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ab0c45
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:15:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ddf43' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:15:01 GMT: Compiler call returned
+10 Dec 2018 4:15:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176457d
+10 Dec 2018 4:15:01 GMT:  Kind = ERROR
+10 Dec 2018 4:15:01 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 19 ColNo = 17 Msg = 'geNis cannot be resolved or is not a field'
+10 Dec 2018 4:15:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@547e68
+10 Dec 2018 4:15:01 GMT:  Kind = ERROR
+10 Dec 2018 4:15:01 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 19 ColNo = 32 Msg = 'getNis cannot be resolved or is not a field'
+10 Dec 2018 4:15:04 GMT: diagnostics = javax.tools.DiagnosticCollector@870b50
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1feca0
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:15:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a640ec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:15:04 GMT: Compiler call returned
+10 Dec 2018 4:15:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0fac
+10 Dec 2018 4:15:04 GMT:  Kind = ERROR
+10 Dec 2018 4:15:04 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 19 ColNo = 17 Msg = 'getNis cannot be resolved or is not a field'
+10 Dec 2018 4:15:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102b17d
+10 Dec 2018 4:15:04 GMT:  Kind = ERROR
+10 Dec 2018 4:15:04 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 19 ColNo = 33 Msg = 'getNis cannot be resolved or is not a field'
+10 Dec 2018 4:15:14 GMT: diagnostics = javax.tools.DiagnosticCollector@117cddb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@123ca95
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:15:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@eac285' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:15:14 GMT: Compiler call returned
+10 Dec 2018 4:16:02 GMT: diagnostics = javax.tools.DiagnosticCollector@17ae435
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@127272
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:16:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9f2284' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:16:02 GMT: Compiler call returned
+10 Dec 2018 4:18:44 GMT: diagnostics = javax.tools.DiagnosticCollector@1cf8739
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@366d91
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:18:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@74efa1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:18:44 GMT: Compiler call returned
+10 Dec 2018 4:19:13 GMT: diagnostics = javax.tools.DiagnosticCollector@d057c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@189f80
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:19:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69fd46' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:19:13 GMT: Compiler call returned
+10 Dec 2018 4:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fca68
+10 Dec 2018 4:19:13 GMT:  Kind = ERROR
+10 Dec 2018 4:19:13 GMT: Name = H:\STUDY\CSE111\lab\LAB10\Employee\employee.java LineNo = 19 ColNo = 22 Msg = 'The method getNis() is undefined for the type employee'
+10 Dec 2018 4:19:42 GMT: diagnostics = javax.tools.DiagnosticCollector@1a3e993
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1184860
+fileObjects = [H:\STUDY\CSE111\lab\LAB10\Employee\employeeRecords.java, H:\STUDY\CSE111\lab\LAB10\Employee\person.java, H:\STUDY\CSE111\lab\LAB10\Employee\test.java, H:\STUDY\CSE111\lab\LAB10\Employee\employee.java]
+10 Dec 2018 4:19:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14013dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, H:\STUDY\CSE111\lab\LAB10\Employee;H:\STUDY\drjava-beta-20160913-225446.exe]
+10 Dec 2018 4:19:42 GMT: Compiler call returned

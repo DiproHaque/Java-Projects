@@ -1,0 +1,14 @@
+public class employeeRecords extends person{
+  
+  private double annualSalary;
+  private int startYear;
+  private String nIS;
+  
+  public employeeRecords(String n,double s,int y,String m){
+  name=n;
+  annaulSalary=s;
+  startYear=y;
+  nIs=m;
+  }
+
+}
